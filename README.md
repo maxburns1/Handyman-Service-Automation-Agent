@@ -14,9 +14,6 @@ A multi-agent n8n workflow that automates the entire customer intake-to-appointm
    - **Comms Agent** — drafts a personalized customer email
 5. **Gmail node** sends the final email to the customer
 
-## Architecture
-
-![Workflow Canvas](workflow.png)
 
 ## Why Multi-Agent?
 
